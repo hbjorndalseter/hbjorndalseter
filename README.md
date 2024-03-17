@@ -1,4 +1,5 @@
 ### Hi there 👋
+### Currently a student at NTNU (Norwegian University of Science and Technology)
 
 <!--
 **hbjorndalseter/hbjorndalseter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
